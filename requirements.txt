@@ -1,0 +1,7 @@
+requests
+pyfiglet
+colorama
+Topython
+user_agent
+pysocks
+curl2pyreqs
